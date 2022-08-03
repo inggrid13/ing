@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Menampilkan Gambar pada HTML</title>
+</head>
+
+<body>
+
+    <h3 align="center">PANCASILA</h3>
+    <img src="sila 1.png" width="70" height="80" align="left" hspace="10" vspace="0"> <br>
+    <h3 align="left">ketuhanan yang maha esa</h3>
+    <hspace="20" vspace="20">
+        <br>
+        <br>
+        <br>
+        <img src="sila 2.jpg" width="70" height="80" align="right" hspace="20" vspace="20"> <br>
+        <h3 align="right">kemanusiaan yang adil dan beradab</h3>
+        <hspace="20" vspace="20">
+
+            <br>
+            <br>
+            <br>
+            <img src="sila 3.png" width="70" height="80" align="left" hspace="20" vspace="20"> <br>
+            <h3 align="left">persatuan indonesia</h3>
+            <hspace="20" vspace="20">
+
+                <br>
+                <br>
+                <br>
+                <img src="sila 4.jpg" width="70" height="80" align="right" hspace="20" vspace="20"> <br>
+                <h3 align="right">kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan
+                </h3>
+                <hspace="20" vspace="20">
+
+                    <br>
+                    <br>
+                    <br>
+                    <img src="sila 5.jpg" width="70" height="80" align="left" hspace="20" vspace="20"> <br>
+                    <h3 align="left">keadilan bagi seluruh rakyat indonesia</h3>
+                    <hspace="20" vspace="20">
+                        
+</body>
+
+</html>
