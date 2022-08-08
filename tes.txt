@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Menampilkan Gambar pada HTML</title>
+</head>
+
+<body>
+
+    <h3 align="center">PANCASILA</h3>
+    <img src="sila 1.png" width="70" height="80" align="left" hspace="10" vspace="0"> <br>
+    <h3 align="left">ketuhanan yang maha esa</h3>
+    <hspace="20" vspace="20">
+        <br>
+        <br>
+        <br>
+        <img src="sila 2.jpg" width="70" height="80" align="right" hspace="20" vspace="20"> <br>
+        <h3 align="right">kemanusiaan yang adil dan beradab</h3>
+        <hspace="20" vspace="20">
+
+            <br>
+            <br>
+            <br>
+            <img src="sila 3.png" width="70" height="80" align="left" hspace="20" vspace="20"> <br>
+            <h3 align="left">persatuan indonesia</h3>
+            <hspace="20" vspace="20">
+
+                <br>
+                <br>
+                <br>
+                <img src="sila 4.jpg" width="70" height="80" align="right" hspace="20" vspace="20"> <br>
+                <h3 align="right">kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan
+                </h3>
+                <hspace="20" vspace="20">
+
+                    <br>
+                    <br>
+                    <br>
+                    <img src="sila 5.jpg" width="70" height="80" align="left" hspace="20" vspace="20"> <br>
+                    <h3 align="left">keadilan bagi seluruh rakyat indonesia</h3>
+                    <hspace="20" vspace="20">
+                    <br>
+                    <br>
+                    <br>
+               
+                <h3></h3>
+                <table width="50%" border="1" cellpadding="5px"
+               style="border-collapse:collapse;">
+                <thead>
+                <tr>
+                <th width="30%">Logo</th> 
+                <th width="70%">Sila</th> 
+                </tr>
+                </thead>
+                <tbody>
+                <!-- Sila 1 -->
+                <tr>
+                <td rowspan="1"> <img src="sila 1.png" width="70" height="80" align="center" hspace="10" vspace="0"> </td>
+                <td>Ketuhanan yang maha esa</td>
+                </tr>
+                
+                <!-- Sila 2-->
+                <tr>
+                <td rowspan="1"><img src="sila 2.jpg" width="70" height="80" align="center" hspace="20" vspace="20"> </td>
+                <td>Kemanusiaan yang adil dan beradab</td>
+                </tr>
+
+                <!-- Sila 3-->
+                <tr>
+                    <td rowspan="1"> <img src="sila 3.png" width="70" height="80" align="center" hspace="20" vspace="20"></td>
+                    <td>Persatuan indonesia</td>
+                    </tr>
+                <!-- Sila 4-->
+                <tr>
+                    <td rowspan="1"> <img src="sila 4.jpg" width="70" height="80" align="center" hspace="20" vspace="20"></td>
+                    <td>Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan</td>
+                    </tr>
+                <!-- Sila 5-->
+                <tr>
+                    <td rowspan="1"> <img src="sila 5.jpg" width="70" height="80" align="center" hspace="20" vspace="20"> </td>
+                    <td>keadilan sosial bagi seluruh rakyat indonesia</td>
+                    </tr>
+                </head>
+                <body>
+                    <h3></h3>
+                    <form class="" action="index.html" method="post">
+                        <table cellpadding="5">
+
+                     <tr>
+                     <td>Sila</td>
+                     <td><input type="text" name="teks" value=""
+                    placeholder="bunyi sila"></td>
+                    
+                     <tr>
+                     <td>masukan logo</td>
+                     <td><input type="file" name="file" value=""></td>
+                     </tr>
+                     
+                     <tr>
+                     <td>
+                     <button type="button" name="button" >Submit</button>
+                     
+                     </td>
+                     </tr>
+                     </table>
+                     </form>
+                     </body>
+                    </html>
+        
+                
+
+            
+                
+                </tbody>
+                </table>
+            </body>
+            </html>
+                       
